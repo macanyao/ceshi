@@ -1,3 +1,6 @@
-Git is a version control system.
+Git is a distributed version control system.
 Git is free software.
-11111
+1111111
+222222
+333333
+444444
